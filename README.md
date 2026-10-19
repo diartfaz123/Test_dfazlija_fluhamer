@@ -1,9 +1,13 @@
 # Test_dfazlija_fluhamer
 
-Fabian Luhamer  
+Fabian Luhamer   
 Fabian Hero  
 
 fluhamer@htl-steyr.ac.at  
 fabian.hero@icloud.com
 
 Änderung im feature/Hero branch
+
+Änderung im feature/Hero branch
+
+Änderung im feature/Luhamer 
