@@ -1,0 +1,11 @@
+git --version
+git config --global user.name "Fabian Hero"
+git config --global user.email "fabian.hero@icloud.com"
+cd Desktop
+git clone https://github.com/diartfaz123/Test_dfazlija_fluhamer.git
+cd Test_dfazlija_fluhamer
+ls
+git pull
+git add fhero.txt
+git commit -m "fhero.txt hinzugefuegt"
+git push
