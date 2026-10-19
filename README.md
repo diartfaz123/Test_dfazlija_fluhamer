@@ -5,3 +5,5 @@ Fabian Hero
 
 fluhamer@htl-steyr.ac.at  
 fabian.hero@icloud.com
+
+Änderung im feature/Hero branch
