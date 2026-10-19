@@ -1,1 +1,8 @@
-Fabian Luhamer
+cd /d H:\FSST\5.Klasse\Github
+git clone https://github.com/diartfaz123/Test_dfazlija_fluhamer.git
+cd Test_dfazlija_fluhamer
+dir
+notepad fluhamer.txt
+git add fluhamer.txt
+git commit -m "Befehle in fluhamer.txt protokolliert"
+git push
