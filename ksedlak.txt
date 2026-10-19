@@ -1,9 +1,0 @@
-cd /d "H:\FSST 5AHEL\GitHub"
-git clone https://github.com/diartfaz123/Test_dfazlija_fluhamer.git
-cd Test_dfazlija_fluhamer
-git status
-notepad ksedlak.txt
-git add ksedlak.txt
-git commit -m "ksedlak.txt hinzugefuegt"
-git pull
-git push
